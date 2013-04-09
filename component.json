@@ -1,0 +1,13 @@
+{
+  "name": "sample",
+  "repo": "publicclass/sample",
+  "description": "Collect running samples at minimal memory usage.",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {},
+  "development": {},
+  "license": "MIT",
+  "scripts": [
+    "index.js"
+  ]
+}
